@@ -1,0 +1,2 @@
+./darknet detector test lp_detection/obj.data lp_detection/obj.cfg lp_detection/obj_60000.weights lp_detection/11.jpeg 
+
